@@ -1,0 +1,33 @@
+
+  
+  .htmlcss {
+    color: #fff;
+    z-index: 1;
+    font-weight: 700;
+    font-size: 2.5rem;
+  }
+
+  .rect-h{
+    height: 300px;
+  }
+  
+  .design-and-build-web {
+    z-index: 1;
+    font-size: 1rem;
+    line-height: 27px;
+    color: #fff;
+  }
+
+  .and {
+    color: red;
+    opacity: 0.8;
+  }
+
+  .box{
+    background-color: black;
+    width: 100vw;
+    height: 100vh;
+  }
+  
+
+  
